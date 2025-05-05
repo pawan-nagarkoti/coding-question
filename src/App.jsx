@@ -3,7 +3,7 @@ import { Interview, ChipInput } from "./components";
 function App() {
   return (
     <>
-      <Interview />
+      {/* <Interview /> */}
       <ChipInput />
     </>
   );
